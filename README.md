@@ -32,13 +32,13 @@ Automated Email Notifications: Automatically sends confirmation and cancellation
 👨‍⚕️ Doctor Portal
 Personalized Dashboard: Welcomes the doctor by name and shows a list of their upcoming, confirmed appointments.
 
-![alt text](image/image-3.png)
+![alt text](images/image-3.png)
 
 Availability Management: A dedicated page for doctors to set their weekly working hours (e.g., Monday 9 AM - 5 PM, Tuesday off), which controls their booking availability.
 
 🙍 Patient Portal
 Secure Registration & Login:
-![alt text](image/image-4.png)
+![alt text](images/image-4.png)
 
 Robust user registration with password confirmation.
 
@@ -142,3 +142,4 @@ Integrate the doctor's availability schedule to block out specific time slots.
 Add a section for patient medical records and visit notes, visible to doctors.
 
 Real-time notifications for appointment reminders.#
+
