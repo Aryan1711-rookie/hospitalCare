@@ -1,0 +1,5 @@
+# Composer dependencies
+/vendor/
+
+# IDE/Editor specific files
+/.vscode/
