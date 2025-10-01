@@ -29,14 +29,14 @@ function sendEmail($to, $subject, $body) {
         
         // --- YOUR GMAIL CREDENTIALS ---
         // IMPORTANT: Replace with your Gmail address and the 16-digit App Password
-        $mail->Username   = 'raketyler439@gmail.com';
-        $mail->Password   = 'ggpoodqafyvttyza';
+        $mail->Username   = 'yourgmail@gmail.com';
+        $mail->Password   = 'abcdefghijkl';
         
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->Port       = 465;
 
         // --- RECIPIENTS ---
-        $mail->setFrom('raketyler439@gmail.com', 'HospitalCare'); // This is the sender's email and name
+        $mail->setFrom('yourgmail@gmail.com', 'HospitalCare'); // This is the sender's email and name
         $mail->addAddress($to); // This is the recipient
 
         // --- CONTENT ---
